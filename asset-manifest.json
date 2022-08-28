@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ScholarReactProject/static/css/main.073c9b0a.css",
+    "main.js": "/ScholarReactProject/static/js/main.aa37885c.js",
+    "static/js/787.a9c5a667.chunk.js": "/ScholarReactProject/static/js/787.a9c5a667.chunk.js",
+    "static/media/logo.svg": "/ScholarReactProject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ScholarReactProject/index.html",
+    "main.073c9b0a.css.map": "/ScholarReactProject/static/css/main.073c9b0a.css.map",
+    "main.aa37885c.js.map": "/ScholarReactProject/static/js/main.aa37885c.js.map",
+    "787.a9c5a667.chunk.js.map": "/ScholarReactProject/static/js/787.a9c5a667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.aa37885c.js"
+  ]
+}
